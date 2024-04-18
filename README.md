@@ -32,16 +32,31 @@
   3. What is the distribution of car sales based on transmission?
   4. What are the states that have the most cars sold?
 
-### Results and Findings
+### Analysis and Findings
 
-The analysis shows that:
-1. The overall car sales tend to increase throughout the year, showcasing peak sales during the months of September, November and December.
-2. The top-performing car models overall are the Silhoutte, Prizm, and Dimante.
-3. The overall distribution of car sales based on transmission is almost even, with a slight edge over Manual transmissions at 51.31%.
-4. Texas has the most cars sold across the states, followed by New York with Arizona at third. 
+Upon analyzing the data, results show that: 
+
+![image](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/eb244171-7064-4898-8bec-fc95a7145093)
+
+1. _The overall car sales tend to increase throughout the year, showcasing peak sales during September, November, and December._
+
+![image](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/5fe75d09-933f-4069-9e96-fbab195ad178)
+
+2. _The top-performing car models overall are the Dimante, Silhouette, and Prizm._
+
+![image](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/028bc967-d315-4b8d-ba4d-9b4383e1d543)
+
+3. _The overall distribution of car sales based on transmission is almost even, with a slight edge over Manual transmissions at 52.59%._
+
+![image](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/0be16ca1-e6fc-4f99-8a08-01de83e83c45)
+
+4. _Texas has the most cars sold across the states, followed by New York with Arizona at third._
 
 ### Dashboard
 
-![Car Sales Analysis](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/43a57689-43cc-462f-a5db-d7eee4741f0a)
+![Car Sales Analysis](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/a10c92df-a54f-4911-8924-f8eb2dd66dfa)
 
-### Recommendations
+
+The interactive dashboard visualizes the analysis and answers the key questions the project aims to answer. The added filters allow users to zoom in on particular areas of the data where they may want to gain further insights.
+
+
