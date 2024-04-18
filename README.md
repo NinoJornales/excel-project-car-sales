@@ -54,7 +54,7 @@ Upon analyzing the data, results show that:
 
 ### Dashboard
 
-![Car Sales Analysis](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/a10c92df-a54f-4911-8924-f8eb2dd66dfa)
+![Car Sales Analysis](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/7ea46187-f749-4635-9c73-4435f77b3519)
 
 
 The interactive dashboard visualizes the analysis and answers the key questions the project aims to answer. The added filters allow users to zoom in on particular areas of the data where they may want to gain further insights.
