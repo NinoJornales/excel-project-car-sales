@@ -1,4 +1,4 @@
-# Car Sales Analysis
+ # Car Sales Analysis
 
 
 
@@ -26,7 +26,7 @@
 
 ### Exploratory Data Analysis
 
-  The implored EDA involved exploring the sale data to answer key questions such as:
+  The EDA aims to answer key questions such as:
   1. What are the peak sales periods in a year?
   2. What are the top-performing car models?
   3. What is the distribution of car sales based on transmission?
