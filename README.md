@@ -53,5 +53,6 @@ Upon analyzing the data, results show that:
 
 ### Dashboard
 
-![Car Sales Analysis](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/7ea46187-f749-4635-9c73-4435f77b3519)
+![Car Sales Analysis](https://github.com/NinoJornales/excel-project-car-sales/assets/166905805/3e39a58a-6787-4b8f-85c7-03abe7cadd09)
+
 
